@@ -1,0 +1,13 @@
+body{
+   background-color: rgb(233, 198, 228);
+}
+/**************************CLASS SELECTOR***************************/
+
+.raji{
+    border-color: rgba(238, 137, 78, 0.884);
+    border-width: 5px;
+}
+
+img:hover{
+    background-color:  rgba(238, 137, 78, 0.884);
+}
