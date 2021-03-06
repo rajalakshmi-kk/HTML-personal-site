@@ -1,0 +1,15 @@
+h1{
+    text-decoration: underline;
+    font-style: oblique;
+    text-align: center;
+    }
+body{
+    background-color: burlywood;
+    text-indent: 10px;
+    font-size: 28px;
+}
+/*******************ID SELECTOR*******************/
+
+#heading{
+    color: rgba(70, 138, 3, 0.973);
+}
